@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="docs/images/bole-mascot.png" height="200" align="middle" alt="伯乐" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/hero-title.svg" height="200" align="middle" alt="伯乐 · AI 选型报告" />
+  <img src="docs/images/hero-title.svg" width="760" alt="伯乐 · AI 选型报告" />
 </p>
 
 <h3 align="center">别查了：只需要说一句话，3 分钟伯乐给一份你看得懂的 AI 选型报告。</h3>
@@ -12,11 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%E6%A8%A1%E5%9E%8B-4800%2B-2563eb?style=for-the-badge&labelColor=1e293b" alt="4800+ AI 模型" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%20benchmark-52-10b981?style=for-the-badge&labelColor=1e293b" alt="52 个公开 benchmark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%E5%87%BA%E6%8A%A5%E5%91%8A-3%20%E5%88%86%E9%92%9F-f59e0b?style=for-the-badge&labelColor=1e293b" alt="3 分钟出报告" />
+  <b>4800+</b> 个模型　·　<b>52</b> 个公开 benchmark　·　<b>3 分钟</b>出报告
 </p>
 
 <p align="center">
