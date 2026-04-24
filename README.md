@@ -1,43 +1,39 @@
-<img src="docs/images/bole-mascot.png" align="left" width="96" alt="伯乐" hspace="16" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:4f46e5,100:7c3aed&height=200&section=header&text=%E4%BC%AF%E4%B9%90&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20%E9%80%89%E5%9E%8B%E6%8A%A5%E5%91%8A%20%C2%B7%20Bole&descSize=22&descAlignY=64" alt="伯乐 · AI 选型报告" width="100%" />
+</p>
 
-# 伯乐：AI选型报告
+<p align="center">
+  <img src="docs/images/bole-mascot.png" width="140" alt="伯乐吉祥物" />
+</p>
 
-### 别查了：只需要说一句话，3 分钟伯乐给一份你看得懂的 AI 选型报告。
+<h3 align="center">别查了：只需要说一句话，3 分钟伯乐给一份你看得懂的 AI 选型报告。</h3>
 
+<p align="center">
+  从 4800+ 个 AI 模型里，替你挑出最合适的那一个。<br/>
+  不需要懂技术，用大白话描述你要做什么，就能拿到一份看得懂的选型报告。
+</p>
 
-
-从 4800+ 个 AI 模型里，替你挑出最合适的那一个。不需要懂技术，用大白话描述你要做什么，就能拿到一份看得懂的选型报告。
-
-<br clear="left" />
-
-<table align="center">
-  <tr>
-    <td align="center" width="240">
-      <div><b style="font-size: 24px">4800+</b></div>
-      <sub>覆盖的 AI 模型</sub>
-    </td>
-    <td align="center" width="240">
-      <div><b style="font-size: 24px">52</b></div>
-      <sub>真实 benchmark 来源</sub>
-    </td>
-    <td align="center" width="240">
-      <div><b style="font-size: 24px">3 分钟</b></div>
-      <sub>从描述到决策报告</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%E6%A8%A1%E5%9E%8B-4800%2B-2563eb?style=for-the-badge&labelColor=1e293b" alt="4800+ AI 模型" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%20benchmark-52-10b981?style=for-the-badge&labelColor=1e293b" alt="52 个公开 benchmark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E5%87%BA%E6%8A%A5%E5%91%8A-3%20%E5%88%86%E9%92%9F-f59e0b?style=for-the-badge&labelColor=1e293b" alt="3 分钟出报告" />
+</p>
 
 <p align="center">
   <a href="http://47.116.58.163:3000/">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-%E2%86%92-2563eb?style=for-the-badge" alt="立即体验" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-2563eb?style=for-the-badge" alt="立即体验" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://xiaoxiaostudy.github.io/bole/ecommerce.html">
-    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%20Demo-%E2%86%92-475569?style=for-the-badge" alt="在线 Demo" />
+    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%20Demo-1e293b?style=for-the-badge" alt="在线 Demo" />
   </a>
 </p>
 
-<img src="docs/images/home.png" width="820" alt="伯乐首页：用大白话描述你的场景" />
+<p align="center">
+  <img src="docs/images/home.png" width="860" alt="伯乐首页：用大白话描述你的场景" />
+</p>
 
 ---
 
