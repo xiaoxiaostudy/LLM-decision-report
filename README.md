@@ -2,7 +2,7 @@
 
 # 伯乐
 
-### 别查了——说一句话，伯乐替你选
+### 别查了：说一句话，3 分钟伯乐给一份你看得懂的 AI 选型报告。
 
 <br clear="left" />
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-%E2%86%92-2563eb?style=for-the-badge" alt="立即体验" />
   </a>
   &nbsp;
-  <a href="ecommerce.html">
+  <a href="https://xiaoxiaostudy.github.io/bole/ecommerce.html">
     <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%20Demo-%E2%86%92-475569?style=for-the-badge" alt="在线 Demo" />
   </a>
 </p>
