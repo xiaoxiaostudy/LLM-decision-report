@@ -1,26 +1,10 @@
 <img src="docs/images/bole-mascot.png" align="left" width="96" alt="伯乐" hspace="16" />
 
-# 伯乐
+# 伯乐：LLM 决策报告
 
 ### 别查了：只需要说一句话，3 分钟伯乐给一份你看得懂的 AI 选型报告。
 
 <br clear="left" />
-
-从 4800+ 个 AI 模型里，替你挑出最合适的那一个。不需要懂技术，用大白话描述你要做什么，就能拿到一份看得懂的选型报告。
-
-<p>
-  <a href="http://47.116.58.163:3000/">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-%E2%86%92-2563eb?style=for-the-badge" alt="立即体验" />
-  </a>
-  &nbsp;
-  <a href="https://xiaoxiaostudy.github.io/bole/ecommerce.html">
-    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%20Demo-%E2%86%92-475569?style=for-the-badge" alt="在线 Demo" />
-  </a>
-</p>
-
-<img src="docs/images/home.png" width="820" alt="伯乐首页：用大白话描述你的场景" />
-
----
 
 <table align="center">
   <tr>
@@ -38,6 +22,20 @@
     </td>
   </tr>
 </table>
+
+从 4800+ 个 AI 模型里，替你挑出最合适的那一个。不需要懂技术，用大白话描述你要做什么，就能拿到一份看得懂的选型报告。
+
+<p align="center">
+  <a href="http://47.116.58.163:3000/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-%E2%86%92-2563eb?style=for-the-badge" alt="立即体验" />
+  </a>
+  &nbsp;
+  <a href="https://xiaoxiaostudy.github.io/bole/ecommerce.html">
+    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%20Demo-%E2%86%92-475569?style=for-the-badge" alt="在线 Demo" />
+  </a>
+</p>
+
+<img src="docs/images/home.png" width="820" alt="伯乐首页：用大白话描述你的场景" />
 
 ---
 
